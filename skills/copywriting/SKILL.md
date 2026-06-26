@@ -138,6 +138,15 @@ To develop taste in any craft you imitate the masters until you internalize the 
 - [ ] Did I cut a third, then cut a third again?
 - [ ] Is it *interesting* the whole way through? (Length is fine. Boring is not.)
 
-## Source
+---
 
-Frameworks distilled from Sam Parr (The Hustle, My First Million) breaking down his copywriting playbook — drawing on David Ogilvy (*Ogilvy on Advertising*), Claude Hopkins (*Scientific Advertising*), Joe Sugarman (*The Adweek Copywriting Handbook* — the "slippery slope" and axioms), Robert Cialdini's consistency principle, and the Wall Street Journal "Two Young Men" control ad.
+## Credit & source
+
+This skill is not original instruction — it is a distillation of a single interview. Full credit goes to the speaker and the show below. (This section is attribution, not part of the skill's instructions.)
+
+- **Speaker / source of the frameworks:** **Sam Parr** — founder of *The Hustle*, co-host of *My First Million* — breaking down his copywriting playbook.
+- **Episode:** *"Become a Dangerously Good Writer in 55 Minutes w/ Sam Parr"*
+- **Show:** the **Sweat Equity** podcast (YouTube: [@SweatEquityPodcast](https://www.youtube.com/@SweatEquityPodcast)), where Sam is interviewed about the exact copywriting frameworks he used to build his businesses — headlines, curiosity gaps, the slippery slope, storytelling, objection handling, and copy work.
+- **Video:** https://www.youtube.com/watch?v=uf4fR3qcDkU
+
+Sam in turn draws on the direct-response masters he cites throughout the episode: David Ogilvy (*Ogilvy on Advertising*), Claude Hopkins (*Scientific Advertising*), Joe Sugarman (*The Adweek Copywriting Handbook* — the "slippery slope" and axioms), Robert Cialdini's consistency principle, and the Wall Street Journal "Two Young Men" control ad.

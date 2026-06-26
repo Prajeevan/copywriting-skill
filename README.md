@@ -4,6 +4,8 @@ A reusable [Agent Skill](https://skills.sh) that teaches AI agents to write pers
 
 Built on classic direct-response frameworks (Ogilvy, Hopkins, Sugarman, the Wall Street Journal "Two Young Men" ad, Cialdini) as distilled by **Sam Parr** (founder of *The Hustle*, co-host of *My First Million*).
 
+> **Credit:** The frameworks in this skill come entirely from **Sam Parr** in the episode **"Become a Dangerously Good Writer in 55 Minutes w/ Sam Parr"** on the **[Sweat Equity](https://www.youtube.com/@SweatEquityPodcast)** podcast. Watch it here: **https://www.youtube.com/watch?v=uf4fR3qcDkU**. This repo is a study aid; all original insight is theirs.
+
 ## What's inside
 
 - **Core philosophy** — "no such thing as too long, only too boring"; write for the *right* reader, not everyone; niches make riches
